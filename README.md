@@ -1,1 +1,1 @@
-# Python-challenges
+# Reddit's /r/dailyprogrammer challenges written in Python
